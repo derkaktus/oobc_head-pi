@@ -23,3 +23,4 @@ The port can be selected via pin 16, 18 and 22 a.k.a. **GPIO 22, 23** and **25**
 Optional: 
 - 2x IC Socket 16 / 2x8 pin
 
+Watch for the 2.54 mm pitch versions !!
