@@ -1,5 +1,11 @@
 # OutofBand Console Server Head for Raspberry Pi
+
 Upgrade your Raspberry Pi to an eight port serial console server for OoB management.
+
+<img src="OoB-Console-Head.png" align="left" height="500"> <img src="OoB-Console-Head_mech.png" align="right" height="500"> 
+<br clear="left"/>
+<br clear="right"/>
+
 
 ## Function
 The head utilizes the build in UART capability of the raspberry pi (only UART0) and adds the 8 port switching capability. 
